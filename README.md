@@ -5,4 +5,4 @@ Repo for my website (kinda WIP)
 This is my repo for a personal website I'm making. 
 
 ## Website link
-sysrat.pages.dev
+https://sysrat.pages.dev
