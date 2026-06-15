@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: "Comic Neue", "Comic Sans MS", Arial, sans-serif;
   background: #0b0d10;
-  color: #cfcfcf;;
+  color: #cfcfcf;
   line-height: 1.6;
 }
 
@@ -12,14 +12,14 @@ body {
   padding: 24px;
 }
 
-.hero h1 {
-  font-size: 52px;
-  margin: 0;
-}
-
 .subtitle {
   color: #9aa4b2;
   margin-top: 8px;
+}
+
+a {
+  display: inline-block;
+  margin-right: 12px;
 }
 
 .alias {
